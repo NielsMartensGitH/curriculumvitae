@@ -1,0 +1,110 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300;1,400;1,500;1,600&display=swap');
+
+body {
+    font-family: 'Merriweather', serif;
+}
+
+.name {
+    font-size: 75px;
+    color: #2BB993;
+    font-weight: 700;
+}
+
+.title {
+    font-size: 35px;
+    font-weight: 400;
+}
+
+.profile {
+    width: 250px;
+}
+
+.personal_text {
+    font-size: 13px;
+}
+
+.personal_detail {
+    color: #2BB993;
+    font-weight: 700;
+}
+
+
+.main-content {
+    font-family: 'Poppins', sans-serif;
+}
+
+.main-column {
+    margin-left: 190px;
+}
+
+.category {
+    font-weight: 700;
+}
+
+.personal_text {
+    width: 150px;
+}
+
+.function_section {
+    position: relative;
+}
+
+.fas.fa-circle {
+    font-size: 13px;
+    color: #2BB993;
+    position: absolute;
+    top: 4px;
+    left: -1px;
+}
+
+.fas.fa-circle:after {
+    position: absolute;
+    left: 0;
+    top: 15px;
+    content: '';
+    border-left: 2px solid black;
+    margin-left: 5px;
+    height: 165px;
+}
+
+.function_title {
+    color: #2BB993;
+}
+
+.fas.fa-circle.courses {
+    font-size: 13px;
+    color: #2BB993;
+    position: absolute;
+    top: 4px;
+    left: -1px;
+}
+
+.fas.fa-circle.courses:after {
+    position: absolute;
+    left: 0;
+    top: 15px;
+    content: '';
+    border-left: 2px solid black;
+    margin-left: 5px;
+    height: 25px;
+}
+
+.school {
+    margin-top: -15px;
+}
+
+.icons {
+    font-size: 10px;
+    margin-bottom: 15px;
+    color: white;
+    padding: 6px;
+    border-radius: 15px;
+    background-color:  #2BB993;
+}
+
+.box {
+    background-color: #F5F5F5;
+    border-radius: 5px;
+    padding: 8px;
+}
