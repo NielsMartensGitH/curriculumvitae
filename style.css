@@ -5,6 +5,17 @@ body {
     font-family: 'Merriweather', serif;
 }
 
+a {
+    color: rgb(20, 20, 215);
+    cursor: pointer;
+    /* font-weight: 700; */
+    text-decoration: none;
+}
+
+a:hover {
+    color: black;
+}
+
 .name {
     font-size: 75px;
     color: #2BB993;
