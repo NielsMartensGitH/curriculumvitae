@@ -17,7 +17,7 @@ body {
 }
 
 .profile {
-    width: 250px;
+    width: 260px;
 }
 
 .personal_text {
@@ -35,7 +35,7 @@ body {
 }
 
 .main-column {
-    margin-left: 190px;
+    margin-left: 180px;
 }
 
 .category {
@@ -95,13 +95,14 @@ body {
 }
 
 .icons {
-    font-size: 10px;
+    font-size: 12px;
     margin-bottom: 15px;
     color: white;
     padding: 6px;
     border-radius: 15px;
     background-color:  #2BB993;
 }
+
 
 .box {
     background-color: #F5F5F5;
