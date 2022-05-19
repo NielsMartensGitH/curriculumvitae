@@ -114,6 +114,13 @@ a:hover {
     background-color:  #2BB993;
 }
 
+.profilepic {
+    border-radius: 300px;
+    width: 350px;
+    height: 370px;
+    object-fit: cover;
+    object-position: -20% 20%;
+}
 
 .box {
     background-color: #F5F5F5;
